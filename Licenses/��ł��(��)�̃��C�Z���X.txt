@@ -1,0 +1,26 @@
+つんでれんこ(夏)に関しては、再配布、同梱等含めご自由にどうぞ(特に制限することはありません)。
+改造版を再配布する場合には、更新履歴.txtの更新をお願いします。
+
+ただし、同梱している下記ツールについては、それぞれのライセンス(同梱してあります)に従ってください。
+　7za.exe ( http://sevenzip.sourceforge.jp/ )
+　Avisynth.dll(AviSynth developers、http://sourceforge.net/projects/avisynth2/ )
+　curl.exe(Daniel Stenberg、http://curl.haxx.se/)
+　DevIL.dll（Denton Woods & Nicolas Weber & Meloni Dario、http://openil.sourceforge.net/ ）
+　DirectShowSource.dll（AviSynth developers、http://sourceforge.net/projects/avisynth2/ ）
+　FFmpeg.exe ( http://www.ffmpeg.org/ )
+　FFMS2.dll(Myrsloik、http://code.google.com/p/ffmpegsource/ )
+　libiconv2.dll ( http://www.gnu.org/software/libiconv )
+　libintl3.dll ( http://gnuwin32.sourceforge.net/packages/libintl.htm )
+　MediaInfo.dll、MediaInfo.exe(MediaArea.net SARL.、http://mediainfo.sourceforge.net/ )
+　MP4Box.exe(Jean Le Feuver & ENST、http://github.com/golgol7777/gpac )
+　pcre3.dll ( http://www.pcre.org )
+　player-viral.swf、swfobject.js（LongTail Video、http://www.longtailvideo.com/players/jw-flv-player/ ）
+　qtaacenc.exe（tmkk、http://tmkk.pv.land.to/qtaacenc/ ）
+　regelx.dll( http://gnuwin32.sourceforge.net/packages/regex.htm )
+　sed.exe( http://www.gnu.org/software/sed/sed.html )
+　sort.exe (GNU coreutils http://gnuwin32.sourceforge.net/packages/coreutils.htm )
+　WaveGain.exe ( http://rarewares.org/index.php )
+　wavi.exe、silence.exe(Tamas Kurucsai、http://sourceforge.net/projects/wavi-avi2wav/ )
+　x264.exe(x264 team、http://www.videolan.org/developers/x264.html )
+　yadif.dll(Fizick、http://avisynth.org.ru/yadif/yadif.html )
+　ソースも上記URLから取得できます。
